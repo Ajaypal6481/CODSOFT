@@ -9,7 +9,7 @@ This repository contains a Tic-Tac-Toe AI agent implemented using the Minimax al
 
 Getting Started
 
-Clone the repository: git clone https://github.com/your-username/tic-tac-toe-ai.git
+Clone the repository: 
 Navigate to the repository directory: cd tic-tac-toe-ai
 Run the game: python main.py
 
